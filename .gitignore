@@ -2,3 +2,9 @@
 .jekyll-cache
 .jekyll-metadata
 vendor
+CNAME
+Gemfile
+Gemfile.local
+_config.yml
+about.markdown
+index.markdown
