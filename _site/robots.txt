@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:80/sitemap.xml
+Sitemap: http://localhost:80thelocalgeekshop.com/sitemap.xml
