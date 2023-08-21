@@ -23,7 +23,7 @@ description: 'At The The Local Geek Shop we have a passion. A passion for simple
 
 # Main author of the website
 # See > authors.yml
-author: 'The Local Geek Shop'
+author: 'Geek'
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -115,7 +115,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Geek    # Default author for pages
   -
     scope:
       path: ''
@@ -124,7 +124,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Geek     # Default author for posts
 
 
 
@@ -146,8 +146,8 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
+google_site_verification        : 'lbTfWlzGfBa8OP2n2lHq6AFjN0vjX554h9d3NDHEDYY'
+#bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification      : ''
 # alexa_verify_id               : ''
 
@@ -180,9 +180,9 @@ msapplication_tilecolor              : '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale                            : 'en_EN'
-og_type                              : 'website'
+#og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+#og_locale                            : 'en_EN'
+#og_type                              : 'website'
 
 
 #      _____            _       __   __  ___         ___
@@ -194,9 +194,9 @@ og_type                              : 'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+#socialmedia:
+#    twitter   : phlow
+#    facebook  : phlow.media
 
 
 #        ____  _

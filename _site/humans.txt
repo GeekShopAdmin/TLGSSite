@@ -1,8 +1,7 @@
 /* TEAM */
 
-Name: Phlow
-Site: http://phlow.de/
-Twitter: @phlow
+Name: Geek
+Site: https://thelocalgeekshop.com/
 
 
 /* THANKS */
