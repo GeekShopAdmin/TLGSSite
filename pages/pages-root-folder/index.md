@@ -11,7 +11,7 @@ widget1:
   title: "Solutions and Services"
   url: 'https://www.thelocalgeekshop.com/partners/'
   image: widget-1-302x182.jpg
-  text: 'To meet demands of a ever changing threat landscape we have partnered with leading industry hardware and software providers to bring next generation products and solutions to our clients.'
+  text: 'To meet the demands of a ever changing threat landscape we have partnered with leading industry hardware and software providers to bring next generation products and solutions to our clients.'
 widget2:
   title: "Why partner with us?"
   url: 'https://www.thelocalgeekshop.com/testimonials/'
